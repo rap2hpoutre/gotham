@@ -36,10 +36,10 @@ information on functionality and ordering.
 | [Query String](query_string) | Extracting data from the `Request` query string whilst ensuring type safety. | 1 |
 | [Cookies](cookies) | Working with Cookies. | 0 |
 | [Headers](headers) | Working with HTTP Headers. | 1 |
-| [Middleware](middleware) | Developing custom middleware for your application. | 0 |
+| [Middleware](middleware) | Developing custom middleware for your application. | 1 |
 | [Into Response](into_response) | Implementing the Gotham web framework's `IntoResponse` trait. | 1 |
 
-^ Gotham web framework examples are under active development. 
+^ Gotham web framework examples are under active development.
 
 ## Contributing
 
